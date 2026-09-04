@@ -3,6 +3,8 @@ package OOP;
 public class Student {
     int id;
     String name;
+
+    
     int marks;
 
     void input(int id,String name,int marks){
